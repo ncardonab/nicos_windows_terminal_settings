@@ -1,1 +1,1 @@
-# nicos_windows_terminal_settings
+# Nico's windows terminal settings
