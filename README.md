@@ -1,0 +1,1 @@
+# nicos_windows_terminal_settings
